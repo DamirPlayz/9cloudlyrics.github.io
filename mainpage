@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>9-Cloud Lyrics</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-black min-h-screen flex items-center justify-center">
+  <div class="bg-white rounded-xl shadow-lg p-10 max-w-md w-full text-center">
+    <h1 class="text-4xl font-extrabold text-black mb-2">9-Cloud Lyrics</h1>
+    <p class="text-lg text-gray-800 mb-6 italic">Your destination for aesthetic lyric videos and music vibes.</p>
+    <div class="mb-6">
+      <p class="text-gray-700 mb-2">
+        9-cloud lyrics is a YouTube channel dedicated to sharing the best lyric videos from a wide range of genres. Discover new music, enjoy beautiful visuals, and join a community of music lovers!
+      </p>
+      <p class="text-gray-700">
+        Stay connected for the latest uploads, playlists, and exclusive community events.
+      </p>
+    </div>
+    <div class="flex flex-col gap-4">
+      <a href="https://www.youtube.com/@9cloudmusic-i9q" target="_blank" class="px-6 py-3 bg-black text-white rounded-lg font-semibold shadow hover:bg-gray-900 transition">Subscribe To Our YouTube Channel!</a>
+      <a href="https://discord.gg/yaGJXcTSyk" target="_blank" class="px-6 py-3 bg-gray-900 text-white rounded-lg font-semibold shadow hover:bg-black transition"> Join Our Discord Community!</a>
+      <a href="mailto:reactsdamir@gmail.com" class="px-6 py-3 bg-gray-200 text-black rounded-lg font-semibold shadow hover:bg-gray-300 transition">Contact Us!</a>
+    </div>
+    <footer class="mt-8 text-gray-500 text-sm">
+      &copy; 2025 9-cloud lyrics. All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
